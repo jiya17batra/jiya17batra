@@ -40,6 +40,5 @@ When I’m not coding, you’ll probably find me:
 
 ## Let's Connect
 
-- LinkedIn: YOUR_LINK
-- Portfolio: YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/jiya17batra/
+- Email: jiya17batra@gmail.com
